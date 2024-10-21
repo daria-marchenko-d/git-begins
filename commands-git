@@ -1,0 +1,7 @@
+git clone https://github.com/daria-marchenko-d/git-begins.git
+
+git add .
+
+git commit -m "Les commandes ajouté"
+
+git push origin main
